@@ -4,8 +4,8 @@
 <br />
 - 🥅 2023 Goals: To become Kaggle Competetion Expert, Get a Job.
 
-### Connect with me:
 
+### Connect with me:
 <a href="https://www.linkedin.com/in/hasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
