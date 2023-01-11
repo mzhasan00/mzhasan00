@@ -1,17 +1,15 @@
-### Hi there, I'm Rahat Khan Pathan 👋
+### Hi there, I'm MD. ZIAUL HASAN 👋
 
 ## I'm a Learner, Problem Solver, Developer, and Teacher!!
 
-- 🥅 2019 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional (Done both)
-- 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
-- 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
-- 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
-- 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
+- 🥅 2023 Goals: To become Kaggle Competetion Expert, Get a Job.
+
+
 ### Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
-<a href="https://www.linkedin.com/in/rahat-khan-pathan/">
+<a href="https://www.linkedin.com/in/hasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
@@ -52,12 +50,12 @@
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HASAN1911001&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
   
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
+  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASAN1911001&show_icons=true" />
 
 
 [facebook]: https://www.facebook.com/rahatkhanpathan.1999/
