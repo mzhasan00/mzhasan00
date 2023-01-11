@@ -14,7 +14,7 @@
 <br />
 
 <a href="https://codeforces.com/profile/HASAN1911001">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/HASAN1911001/ct-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=HASAN1911001&label=Profile%20views&color=0e75b6&style=flat" alt="HASAN" />
 
