@@ -2,11 +2,8 @@
 
 ## I'm a Learner, Problem Solver, Developer, and Teacher!!
 <br />
-<br />
-
 - 🥅 2023 Goals: To become Kaggle Competetion Expert, Get a Job.
 
-<br />
 <br />
 ### Connect with me:
 
