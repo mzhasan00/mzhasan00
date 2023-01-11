@@ -4,7 +4,6 @@
 <br />
 - 🥅 2023 Goals: To become Kaggle Competetion Expert, Get a Job.
 
-<br />
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/hasan00/">
