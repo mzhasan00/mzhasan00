@@ -12,6 +12,8 @@
 <br />
 <br />
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/hasan00)
+
 
 ### Languages and Tools:
 
@@ -35,12 +37,12 @@
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HASAN1911001&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HASAN1911001&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
   
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASAN1911001&show_icons=true" />
+  <img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASAN1911001&show_icons=true" />
   
 <br />
 <br />
