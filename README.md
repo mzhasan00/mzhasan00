@@ -49,7 +49,7 @@
 <br />
 <br />
   
-  ### Kaggle Stats 📐: 
+  ### Kaggle Stats: 
 ![mdziaulhasan1911001](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mdziaulhasan1911001)
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mdziaulhasan1911001/competition/light" />
