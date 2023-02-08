@@ -6,7 +6,7 @@
 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/hasan00/">
+<a href="https://www.linkedin.com/in/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
@@ -39,12 +39,12 @@
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HASAN1911001&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
   
-  <img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASAN1911001&show_icons=true" />
+  <img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
   
 <br />
 <br />
