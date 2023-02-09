@@ -1,6 +1,6 @@
 ### Hi there, I'm MD. ZIAUL HASAN 👋
 
-## I'm a Learner, Problem Solver, Developer, and Teacher!!
+## I'm a Learner, Problem Solver, Analyst, Developer, and Teacher!!
 <br />
 - 🥅 2023 Goals: To learn Web Devlopment and get a job , To become Kaggle competetion expert. 
 
