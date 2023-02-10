@@ -2,8 +2,7 @@
 
 ## I'm a Learner, Problem Solver, Analyst, Developer, and Teacher!!
 <br />
-- 🥅 2023 Goals: To learn Web Devlopment and get a job , To become Kaggle competetion expert. 
-
+- 🥅 2023 Goals: To Break into Data Science: Get a Data Science Role, Became Kaggle Expert.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mzhasan00/">
