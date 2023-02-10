@@ -2,7 +2,7 @@
 
 ## I'm a Learner, Problem Solver, Analyst, Developer, and Teacher!!
 <br />
-- 🥅 2023 Goals: To Break into Data Science: Get a Data Science Role, Became Kaggle Expert.
+- 🥅 2023 Goals: To Break into Data Science: To Get a Data Science Role, To Became Kaggle Competetion Expert.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mzhasan00/">
