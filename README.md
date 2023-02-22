@@ -23,6 +23,9 @@ I am committed to achieving my goals and becoming an impactful person in HealthT
 <a href="https://www.twitter.com/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/twitter.png" alt="Twitter"/>
 </a>
+<a href="https://www.github.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
+</a>
 <br />
 <br />
 
