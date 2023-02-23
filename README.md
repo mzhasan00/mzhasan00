@@ -1,5 +1,7 @@
 ### Hi there, I'm MD. ZIAUL HASAN 👋
 
+## 🅰🅱🅾🆄 🆃
+
 A growing mind dedicated to HealthTech.
 
 I am pursuing a BSc in Biomedical Engineering from CUET, where getting a foundation in the field of Healthcare and Life Science. I am also involved in the CSE Fundamentals program on Phitron, which enables me to develop my skills in Computer Science. In addition to my studies, I am honing my skills as an analyst at Tork Inc, where I am gaining real-world experience and sharpening my analytical abilities.
