@@ -19,7 +19,7 @@ I am committed to achieving my goals and becoming an impactful person in HealthT
 a meaningful impact on people's lives. I believe that with hard work, dedication, and a curious mind, I can achieve my dreams and create a better world for all.
 <br />
 <br />
-
+---
 
 ### Skills:
 
