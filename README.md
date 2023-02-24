@@ -19,7 +19,7 @@ I am committed to achieving my goals and becoming an impactful person in HealthT
 
 ### Skills:
 
-**Programming Languages:** Python, R, SQL, C/C++, JavaScript
+**Programming Languages:** Python, R, SQL, C/C++, JavaScript  
 **App Development:** React, Node, Express, MongoDB, Django, MySQL, React Native
 **Data Analytics:** Numpy, Pandas, Matplotlib, Seaborn, Tableau, Excel
 **Data Engineering:** Bash, Airflow, Kafka, Hadoop, Apache Spark
