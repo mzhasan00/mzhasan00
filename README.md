@@ -21,7 +21,7 @@ a meaningful impact on people's lives. I believe that with hard work, dedication
 <br />
 ---
 
-### Skills:
+### :zap: Skills:
 
 **Programming Languages:** Python, R, SQL, C/C++, JavaScript  
 **App Development:** React, Node, Express, MongoDB, Django, MySQL, React Native  
@@ -35,18 +35,18 @@ a meaningful impact on people's lives. I believe that with hard work, dedication
 <br />
 
 ---
-  ### :zap: GitHub Stats
+  ### :zap: GitHub Stats:
   <br/>
-  <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
+
+  
+  <img align="right"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
+  
+<br />
+<br />
 <br />
 
 ---
-  
-  <img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
-  
-<br />
-<br />
-
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
