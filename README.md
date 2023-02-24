@@ -40,6 +40,7 @@ ____
         </tr>
     </table>
 </div>
+
 <br />
 ____
 
@@ -57,5 +58,3 @@ ____
 <a href="https://www.github.com/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
 </a>
-<br />
-<br />
