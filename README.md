@@ -14,8 +14,6 @@ I am committed to achieving my goals and becoming an impactful person in HealthT
 ____
 
 
-<br />
-
 ### Skills:
 
 **Programming Languages:** Python, R, SQL, C/C++, JavaScript  
@@ -26,22 +24,24 @@ ____
 **DevOps:** Agile, Scrum, Container, Kubernetes, OpenShift, Microservices, Serverless, TDD/BDD, CI/CD  
 **General:** VS Code, Git&GItHub, Jupyter  
 ____
-<br />
-<br />
 
-  ### :zap: GitHub Stats
-  
-  
-  <br/>
-  <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
-  <br />
-  
-  <br />
-  <img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
-  <br />
-  
-<br />
-<br />
+### :zap: GitHub Stats
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
+      	    </td>
+            <td style="padding:10px">
+            	<img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
+            </td>
+        </tr>
+    </table>
+</div>
+___
+
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
