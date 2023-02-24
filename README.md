@@ -15,41 +15,17 @@ In my fourth and final year of undergraduate studies, I am eager to explore the 
 I am committed to achieving my goals and becoming an impactful person in HealthTech. While the road ahead may be challenging, I am driven by my passion for making a meaningful impact on people's lives. I believe that with hard work, dedication, and a curious mind, I can achieve my dreams and create a better world for all.
 <br />
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-</a>
-<a href="https://www.facebook.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
-</a>
-<a href="https://www.twitter.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/twitter.png" alt="Twitter"/>
-</a>
-<a href="https://www.github.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
-</a>
-<br />
-<br />
-
-### Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/hasan00)
 
 
 ### Skills:
 
-Programming Languages: Python, R, SQL, C/C++, JavaScript
-
-App Development: React, Node, Express, MongoDB, Django, MySQL, React Native
-
-Data Analytics: Numpy, Pandas, Matplotlib, Seaborn, Tableau, Excel
-
-Data Engineering: Bash, Airflow, Kafka, Hadoop, Apache Spark
-
-Machine Learning: Pytorch, Tensorflow, Keras
-
-DevOps: Agile, Scrum, Container, Kubernetes, OpenShift, Microservices, Serverless, TDD/BDD, CI/CD
-
-General: VS Code, Git&GItHub, Jupyter
+**Programming Languages:** Python, R, SQL, C/C++, JavaScript
+**App Development:** React, Node, Express, MongoDB, Django, MySQL, React Native
+**Data Analytics:** Numpy, Pandas, Matplotlib, Seaborn, Tableau, Excel
+**Data Engineering:** Bash, Airflow, Kafka, Hadoop, Apache Spark
+**Machine Learning:** Pytorch, Tensorflow, Keras
+**DevOps:** Agile, Scrum, Container, Kubernetes, OpenShift, Microservices, Serverless, TDD/BDD, CI/CD
+**General:** VS Code, Git&GItHub, Jupyter
 
 <br />
 <br />
@@ -66,14 +42,20 @@ General: VS Code, Git&GItHub, Jupyter
   
 <br />
 <br />
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/mzhasan00/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
+</a>
+<a href="https://www.facebook.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
+</a>
+<a href="https://www.twitter.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/twitter.png" alt="Twitter"/>
+</a>
+<a href="https://www.github.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
+</a>
+<br />
+<br />
   
-  ### Kaggle Stats: 
-![mdziaulhasan1911001](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mdziaulhasan1911001)
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mdziaulhasan1911001/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mdziaulhasan1911001/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mdziaulhasan1911001/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mdziaulhasan1911001/discussion/light" />
-</p>
-<br />
-<br />
