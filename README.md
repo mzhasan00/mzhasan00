@@ -6,7 +6,9 @@ A growing mind dedicated to HealthTech.
 
 I am pursuing a BSc in Biomedical Engineering from CUET, where getting a foundation in the field of Healthcare and Life Science. I am also involved in the CSE Fundamentals program on Phitron, which enables me to develop my skills in Computer Science. In addition to my studies, I am honing my skills as an analyst at Tork Inc, where I am gaining real-world experience and sharpening my analytical abilities.
 
-In my Third year of undergraduate, I will break into Data Science and Artificial Intelligence. To achieve my target I have set two big targets for myself: • To get a Data Science role • To become a Kaggle Competition expert
+In my Third year of undergraduate, I will break into Data Science and Artificial Intelligence. To achieve my target I have set two big targets for myself:   
+• To get a Data Science role  
+• To become a Kaggle Competition expert  
 
 In my fourth and final year of undergraduate studies, I am eager to explore the world of Health Informatics - the exciting domain where healthcare meets data science. With a passion for unlocking insights from complex data sets, I will prepare to be a next-generation data specialist. While my primary focus is on health and life sciences, I am eager to become a versatile data specialist with the ability to work with any type of data.
 
