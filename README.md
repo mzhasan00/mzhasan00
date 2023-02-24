@@ -1,6 +1,6 @@
 ### Hi there, I'm 𝐌𝐃. 𝐙𝐈𝐀𝐔𝐋 𝐇𝐀𝐒𝐀𝐍 👋
 ## 🅰🅱🅾🆄 🆃
-____
+
 
 A growing mind dedicated to HealthTech.
 
@@ -11,31 +11,34 @@ In my Third year of undergraduate, I will break into Data Science and Artificial
 In my fourth and final year of undergraduate studies, I am eager to explore the world of Health Informatics - the exciting domain where healthcare meets data science. With a passion for unlocking insights from complex data sets, I will prepare to be a next-generation data specialist. While my primary focus is on health and life sciences, I am eager to become a versatile data specialist with the ability to work with any type of data.
 
 I am committed to achieving my goals and becoming an impactful person in HealthTech. While the road ahead may be challenging, I am driven by my passion for making a meaningful impact on people's lives. I believe that with hard work, dedication, and a curious mind, I can achieve my dreams and create a better world for all.
+____
 
 
 <br />
 
 ### Skills:
 
-**Programming Languages:** Python, R, SQL, C/C++, JavaScript
-**App Development:** React, Node, Express, MongoDB, Django, MySQL, React Native
-**Data Analytics:** Numpy, Pandas, Matplotlib, Seaborn, Tableau, Excel
-**Data Engineering:** Bash, Airflow, Kafka, Hadoop, Apache Spark
-**Machine Learning:** Pytorch, Tensorflow, Keras
-**DevOps:** Agile, Scrum, Container, Kubernetes, OpenShift, Microservices, Serverless, TDD/BDD, CI/CD
-**General:** VS Code, Git&GItHub, Jupyter
+**Programming Languages:** Python, R, SQL, C/C++, JavaScript  
+**App Development:** React, Node, Express, MongoDB, Django, MySQL, React Native  
+**Data Analytics:** Numpy, Pandas, Matplotlib, Seaborn, Tableau, Excel  
+**Data Engineering:** Bash, Airflow, Kafka, Hadoop, Apache Spark  
+**Machine Learning:** Pytorch, Tensorflow, Keras  
+**DevOps:** Agile, Scrum, Container, Kubernetes, OpenShift, Microservices, Serverless, TDD/BDD, CI/CD  
+**General:** VS Code, Git&GItHub, Jupyter  
+____
 <br />
 <br />
 
-
----
   ### :zap: GitHub Stats
+  
+  
   <br/>
   <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
-<br />
----
+  <br />
   
+  <br />
   <img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
+  <br />
   
 <br />
 <br />
