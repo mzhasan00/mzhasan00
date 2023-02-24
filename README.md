@@ -17,11 +17,12 @@ health and life sciences, I am eager to become a versatile data specialist with 
 
 I am committed to achieving my goals and becoming an impactful person in HealthTech. While the road ahead may be challenging, I am driven by my passion for making   
 a meaningful impact on people's lives. I believe that with hard work, dedication, and a curious mind, I can achieve my dreams and create a better world for all.
+
 <br />
 <br />
 ---
 
-### :zap: Skills:
+### Skills:
 
 **Programming Languages:** Python, R, SQL, C/C++, JavaScript  
 **App Development:** React, Node, Express, MongoDB, Django, MySQL, React Native  
@@ -39,12 +40,12 @@ a meaningful impact on people's lives. I believe that with hard work, dedication
   <br/>
   <img align="left" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
   <img align="right"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
-  
-<br />
+---
 <br />
 <br />
 
----
+
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
