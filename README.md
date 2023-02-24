@@ -16,7 +16,7 @@ I am committed to achieving my goals and becoming an impactful person in HealthT
 
 <br />
 <br />
----
+
 
 ### Skills:
 
@@ -31,12 +31,11 @@ I am committed to achieving my goals and becoming an impactful person in HealthT
 <br />
 <br />
 
----
   ### :zap: GitHub Stats:
   <br/>
   <img align="left" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
   <img align="left"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
----
+
 <br />
 <br />
 
