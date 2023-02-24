@@ -31,14 +31,16 @@ ____
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
+        	 <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
       	    </td>
+	    <td style="padding:10px"> </td>
             <td style="padding:10px">
             	<img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
             </td>
         </tr>
     </table>
 </div>
+<br />
 ____
 
 
