@@ -16,22 +16,6 @@ I am committed to achieving my goals and becoming an impactful person in HealthT
 ____
 
 
-
-
-### SKILLS:
-
-**Programming Languages:** Python, R, SQL, C/C++, JavaScript  
-**App Development:** React, Node, Express, MongoDB, Django, MySQL, React Native  
-**Data Analytics:** Numpy, Pandas, Matplotlib, Seaborn, Tableau, Excel  
-**Data Engineering:** Bash, Airflow, Kafka, Hadoop, Apache Spark  
-**Machine Learning:** Pytorch, Tensorflow, Keras  
-**DevOps:** Agile, Scrum, Container, Kubernetes, OpenShift, Microservices, Serverless, TDD/BDD, CI/CD  
-**General:** VS Code, Git&GItHub, Jupyter  
-____
-
-
-
-
 ### :zap: GitHub Stats
 
 <div id="image-table">
