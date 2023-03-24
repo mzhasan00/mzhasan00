@@ -57,5 +57,5 @@ ____
     <img align="left"  width="32px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode"/>
 </a>
 <a href="https://www.jovian.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/sxyvvsjkimveb6pdhdze" alt="Jovian"/>
+    <img align="left"  width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yBbRO3TD1Qcyni2WTv8s7QvnUzVC6IQuXlPF1oBAJnTTxkli4kjQFffmcswzdiVCHxA&usqp=CAU" alt="Jovian"/>
 </a>
