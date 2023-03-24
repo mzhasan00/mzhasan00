@@ -59,6 +59,6 @@ ____
 <a href="https://www.leetcode.com/mzhasan00/">
     <img align="left"  width="32px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode"/>
 </a>
-<a href="https://www.jovian.com/mzhasan00/">
+<a href="https://jovian.com/mzhasan00">
     <img align="left"  width="32px" border-radius="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yBbRO3TD1Qcyni2WTv8s7QvnUzVC6IQuXlPF1oBAJnTTxkli4kjQFffmcswzdiVCHxA&usqp=CAU" alt="Jovian"/>
 </a>
