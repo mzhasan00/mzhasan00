@@ -47,6 +47,9 @@ ____
 <a href="https://www.twitter.com/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/twitter.png" alt="Twitter"/>
 </a>
+<a href="https://wa.me/+8801741144605">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/whatsapp.png" alt="WhattsApp"/>
+</a>
 <a href="https://www.github.com/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
 </a>
@@ -59,6 +62,3 @@ ____
 <a href="https://www.jovian.com/mzhasan00/">
     <img align="left"  width="32px" border-radius="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yBbRO3TD1Qcyni2WTv8s7QvnUzVC6IQuXlPF1oBAJnTTxkli4kjQFffmcswzdiVCHxA&usqp=CAU" alt="Jovian"/>
 </a>
-<kbd>
-   <img align="left"  width="32px" border-radius="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yBbRO3TD1Qcyni2WTv8s7QvnUzVC6IQuXlPF1oBAJnTTxkli4kjQFffmcswzdiVCHxA&usqp=CAU" alt="Jovian"/>
-</kbd>
