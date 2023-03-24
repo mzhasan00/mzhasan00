@@ -50,12 +50,12 @@ ____
 <a href="https://www.github.com/mzhasan00/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
 </a>
-<a href="https://www.github.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="GitHub"/>
+<a href="https://www.kaggle.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="Kaggle"/>
 </a>
-<a href="https://www.github.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
+<a href="https://www.leetcode.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode"/>
 </a>
-<a href="https://www.github.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
+<a href="https://www.jovian.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/sxyvvsjkimveb6pdhdze" alt="Jovian"/>
 </a>
