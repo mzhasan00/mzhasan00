@@ -48,5 +48,14 @@ ____
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/twitter.png" alt="Twitter"/>
 </a>
 <a href="https://www.github.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/kaggle.png" alt="GitHub"/>
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
+</a>
+<a href="https://www.github.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="GitHub"/>
+</a>
+<a href="https://www.github.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
+</a>
+<a href="https://www.github.com/mzhasan00/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
 </a>
