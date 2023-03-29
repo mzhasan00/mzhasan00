@@ -15,11 +15,12 @@ In my fourth and final year of undergraduate studies, I am eager to explore the 
 I am committed to achieving my goals and becoming an impactful person in Healthcare and Education. While the road ahead may be challenging, I am driven by my passion for making a meaningful impact on people's lives. I believe that with hard work, dedication, and a curious mind, I can achieve my dreams and create a better world for all.
 ____
 
+### :zap: LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 
 
+____
 ### :zap: GitHub Stats
 
 <div id="image-table">
