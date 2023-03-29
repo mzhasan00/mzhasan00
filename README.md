@@ -16,7 +16,8 @@ I am committed to achieving my goals and becoming an impactful person in Healthc
 ____
 
 
-![](https://leetcard.jacoblin.cool/hasan00?ext=contest)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 
 
 ### :zap: GitHub Stats
