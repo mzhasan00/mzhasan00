@@ -17,7 +17,7 @@ ____
 
 ### :zap: LeetCode Stats
 
-![](https://leetcard.jacoblin.cool/hasan00?theme=light,unicorn?ext=activit)
+![](https://leetcard.jacoblin.cool/hasan00?theme=unicorn,ext=activit)
 
 
 ____
