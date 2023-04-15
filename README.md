@@ -15,27 +15,8 @@
 > I'm motivated by the opportunity of making a meaningful impact on people's lives. I am committed to achieving my goals and becoming an impactful person. I believe that with hard work, dedication, and a curious mind, I can help create a better world for us.
 > 
 > 🎯After Graduation, I would like to play a relevant role in a Healthtech or Biotech organization. 
-
-  
-### :zap: GitHub Stats
-
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	 <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzhasan00&show_icons=true&theme=tokyonight" />
-      	    </td>
-	    <td style="padding:10px"> </td>
-            <td style="padding:10px">
-            	<img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhasan00&show_icons=true" />
-            </td>
-        </tr>
-    </table>
-</div>
-
-<br />
-
-
+<br/>
+<br/>
 
 ____
 ### Connect with me:
