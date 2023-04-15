@@ -2,7 +2,8 @@
 ## 🅰🅱🅾🆄 🆃
 
 ___
-> I am an aspiring healthcare professional passionate about the potential of technology to improve the quality, accessibility, and affordability of healthcare services. My career objective is to leverage technological advancements in healthcare to enhance accessibility, improve quality, and reduce costs.  
+> I am an aspiring healthcare professional passionate about the potential of technology to improve the quality, accessibility, and affordability of healthcare services. My career objective is to leverage technological advancements in healthcare to enhance accessibility, improve quality, and reduce costs.
+>   
 > I am Pursuing a BSc in Biomedical Engineering from CUET, where getting a foundation in the field of Healthcare and Life Science. I have also completed a micro BSc in Computer Science, developing Programming and Software Engineering skills. In addition to my studies, I am honing my skills as an analyst at The Tork, where I am gaining real-world experience and sharpening my analytical abilities.
 > In my Third year of undergraduate, I will break into Data Science and Artificial Intelligence. To achieve my goals, I have set two big targets for myself:
 >
