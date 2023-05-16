@@ -7,12 +7,12 @@ development. I have a passion for utilizing my programming skills to assist in h
 research. Proficient in tools like Pandas, NumPy, Matplotlib, Flask, Django, Scikit-learn, TensorFlow,
 Keras and so on. I am dedicated, detail-oriented, and motivated to solve complex problems in these industries.
 
-SKILLS:
-➤Programming Languages: Python, C, C++, SQL, R, JavaScript
-➤Web Development: Django, Flask, MySQL, HTML, CSS, Bootstrap
-➤Data Analytics: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Excel
-➤Machine Learning/DL: Scikit-learn, PyTorch, TensorFlow, Keras
-➤General: VS Code, Replit, Git&GItHub, Jupyter Notebook, Linux 
+SKILLS:  
+➤Programming Languages: Python, C, C++, SQL, R, JavaScript   
+➤Web Development: Django, Flask, MySQL, HTML, CSS, Bootstrap  
+➤Data Analytics: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Excel   
+➤Machine Learning/DL: Scikit-learn, PyTorch, TensorFlow, Keras   
+➤General: VS Code, Replit, Git&GItHub, Jupyter Notebook, Linux       
 <br/>
 <br/>
 
