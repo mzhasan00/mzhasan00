@@ -1,4 +1,4 @@
-### Hi there, I'm MZ Hasan 👋
+### Hi there, I'm Ziaul Hasan 👋
 ## 🅰🅱🅾🆄 🆃
 
 
