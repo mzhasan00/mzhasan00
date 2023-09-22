@@ -3,7 +3,7 @@
 
 𝐈 𝐁𝐮𝐢𝐥𝐝 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬. I spent my time building Machine Learning Models and deploying them on Embedded Devices, Robots, and on Cloud. 
 
-𝗦𝗞𝗜𝗟𝗟𝗦:
+𝗦𝗞𝗜𝗟𝗟𝗦:  
 ➤𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Python, C++, JavaScript  
 ➤𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Excel  
 ➤𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: PyTorch, TensorFlow  
