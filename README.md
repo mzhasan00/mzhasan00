@@ -1,18 +1,16 @@
 ### Hi there, I'm Ziaul Hasan 👋
 ## 🅰🅱🅾🆄 🆃
 
+𝐈 𝐁𝐮𝐢𝐥𝐝 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬. I spent my time building Machine Learning Models and deploying them on Embedded Devices, Robots, and on Cloud. 
 
-I am a skilled Python developer with expertise in data analysis, web development, and ML application
-development. I have a passion for utilizing my programming skills to assist in healthcare and bioscience
-research. Proficient in tools like Pandas, NumPy, Matplotlib, Flask, Django, Scikit-learn, TensorFlow,
-Keras and so on. I am dedicated, detail-oriented, and motivated to solve complex problems in these industries.
-
-SKILLS:  
-➤Programming Languages: Python, C, C++, SQL, R, JavaScript   
-➤Web Development: Django, Flask, MySQL, HTML, CSS, Bootstrap  
-➤Data Analytics: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Excel   
-➤Machine Learning/DL: Scikit-learn, PyTorch, TensorFlow, Keras   
-➤General: VS Code, Replit, Git&GItHub, Jupyter Notebook, Linux       
+𝗦𝗞𝗜𝗟𝗟𝗦:
+➤𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Python, C++, JavaScript
+➤𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Excel
+➤𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: PyTorch, TensorFlow
+➤𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀: RTOS, Arduino TinyML kit, Tensorflow Lite Micro
+➤𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀: ROS, SLAM, Gazebo
+➤𝗪𝗲𝗯: TensorFlow.js, Reach.js, Django, Flask, MySQL
+➤𝗚𝗲𝗻𝗲𝗿𝗮𝗹: VS Code, Replit, Git&GItHub, Jupyter Notebook, Linux      
 <br/>
 <br/>
 
