@@ -1,10 +1,9 @@
 ### Hi there, I'm Ziaul Hasan 👋
 ## 🅰🅱🅾🆄 🆃
 
-I Play Biomedical Data Science. I am learning to solve biological and medical research challenges that are data intensive
+I Play Biomedical Data Science. I am learning to solve biological and medical research challenges that are data intensive  
 
-
-𝗦𝗞𝗜𝗟𝗟𝗦:
+𝗦𝗞𝗜𝗟𝗟𝗦:  
 ➤𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Python, C++  
 ➤𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Excel  
 ➤𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Scikit Learn, TensorFlow, Pytorch  
