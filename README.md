@@ -5,8 +5,8 @@
   
 Email: md.ziaulhasan00@gmail.com   
 Phone: +880 1741144605  
----
 
+---
 ### Summary  
 AI Engineer with a strong grasp of modern AI concepts and technologies including LLM, RAG, AI Agents, RLHF, and prompt engineering.   
 I have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs, and LSTMs),   
