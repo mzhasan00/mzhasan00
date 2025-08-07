@@ -1,33 +1,29 @@
 <div style="background-color: #f7f7f7; padding: 20px; font-family: 'Inter', sans-serif;">
 
-# MD. ZIAUL HASAN
+## MD. ZIAUL HASAN
 ### AI Engineer
    
 Email: mzhasan.ai@gmail.com  
 
-Summary
+### Summary  
 AI Engineer with a strong grasp of modern AI concepts and technologies including LLM, RAG, AI Agents, RLHF, and prompt engineering.   
 I have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs, and LSTMs),   
 can implement them in PyTorch, and can customize them to meet problem needs. I am proficient in Python and its ecosystem including   
 PyTorch, LangChain, LlamaIndex, NumPy, Pandas, Matplotlib, Scikit-learn, and Django. I am also comfortable with JavaScript and its   
 ecosystem for web and desktop app development.
 
-Work Experience
-AI Research Engineer
-AIMS Lab, United International University | July 2025 - Present
+### Work Experience
+#### AI Research Engineer
+AIMS Lab, United International University | July 2025 - Present  
+   
+My research focus is the application of AI in Healthcare. I do experimental research on NLP with a focus on the Bengali language and 
+Healthcare applications. I also write scientific papers and manage research projects.
 
-My focus of research is the application of AI in Healthcare.
+### AI Data Engineer
+#### Outlier | July 2024 - June 2025
 
-I do experimental research on NLP with a focus on the Bengali language and Healthcare applications.
-
-I also write scientific papers and manage research projects.
-
-AI Data Engineer
-Outlier | July 2024 - June 2025
-
-Independent Contractor at Outlier AI.
-
-Contributed to the development of datasets for training large code models, with a focus on JavaScript and Python.
+I was an Independent Contractor at Outlier AI. Contributed to the development of datasets for training large code models, with a focus on 
+JavaScript and Python.
 
 Competition Expert
 Kaggle | May 2023 - June 2024
