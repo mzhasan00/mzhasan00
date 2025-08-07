@@ -1,39 +1,79 @@
-### Hi there, I'm Ziaul Hasan 👋
-## 🅰🅱🅾🆄 🆃
+<div style="background-color: #f7f7f7; padding: 20px; font-family: 'Inter', sans-serif;">
 
-I Play Biomedical Data Science. I am learning to solve biological and medical research challenges that are data intensive  
+MD. ZIAUL HASAN
+AI Engineer
+Email: mzhasan.ai@gmail.com | Phone: +880 1741144605 | Kaggle | GitHub
 
-𝗦𝗞𝗜𝗟𝗟𝗦:  
-➤𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Python, C++  
-➤𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Excel  
-➤𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Scikit Learn, TensorFlow, Pytorch  
-➤𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀: RTOS, Arduino TinyML kit, Tensorflow Lite Micro  
-➤𝗚𝗲𝗻𝗲𝗿𝗮𝗹: Linux, MATLAB, LaTeX, VS Code, Replit, Git&GItHub, Jupyter Notebook  
+Summary
+AI Engineer with a strong grasp of modern AI concepts and technologies including LLM, RAG, AI Agents, RLHF, and prompt engineering. I have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs, and LSTMs), can implement them in PyTorch, and can customize them to meet problem needs. I am proficient in Python and its ecosystem including PyTorch, LangChain, LlamaIndex, NumPy, Pandas, Matplotlib, Scikit-learn, and Django. I am also comfortable with JavaScript and its ecosystem for web and desktop app development.
 
+Work Experience
+AI Research Engineer
+AIMS Lab, United International University | July 2025 - Present
 
-### Connect with me:
-____
-<a href="https://www.linkedin.com/in/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-</a>
-<a href="https://www.facebook.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
-</a>
-<a href="https://www.twitter.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/twitter.png" alt="Twitter"/>
-</a>
-<a href="https://wa.me/+8801741144605">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/whatsapp.png" alt="WhattsApp"/>
-</a>
-<a href="https://www.github.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
-</a>
-<a href="https://www.kaggle.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="Kaggle"/>
-</a>
-<a href="https://www.leetcode.com/mzhasan00/">
-    <img align="left"  width="32px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode"/>
-</a>
-<a href="https://jovian.com/mzhasan00">
-    <img align="left"  width="32px" border-radius="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yBbRO3TD1Qcyni2WTv8s7QvnUzVC6IQuXlPF1oBAJnTTxkli4kjQFffmcswzdiVCHxA&usqp=CAU" alt="Jovian"/>
-</a>
+My focus of research is the application of AI in Healthcare.
+
+I do experimental research on NLP with a focus on the Bengali language and Healthcare applications.
+
+I also write scientific papers and manage research projects.
+
+AI Data Engineer
+Outlier | July 2024 - June 2025
+
+Independent Contractor at Outlier AI.
+
+Contributed to the development of datasets for training large code models, with a focus on JavaScript and Python.
+
+Competition Expert
+Kaggle | May 2023 - June 2024
+
+Earned two bronze medals in "CAFA 5 Protein Function Prediction" and "NeurIPS 2024 - Predict New Medicines with BELKA," attaining Competition Expert status.
+
+Showcased my ability in tackling complex real-world problems.
+
+Business Analyst Intern
+Tork | February 2023 - April 2023
+
+Supported the branding and marketing team with data-driven insights.
+
+Applied analytical skills to guide strategic decisions in a real-world business environment.
+
+Projects
+BNID – Balanced Network for Imbalanced Data
+Designed a new neural network architecture that tackles data imbalance not through augmentation, but by making the architecture itself inherently robust to imbalance.
+
+Aitist – AI Model for SVG-Based Image Generation
+Building a language-to-code model that generates SVG images from natural language instructions.
+
+The goal is to power a new kind of digital canvas where designers describe ideas in words, and AI handles the visuals.
+
+Protein Function Prediction from Amino Acid Sequences [NB]
+Developed a deep learning-based model to predict biological functions of proteins from raw amino acid sequences using neural networks.
+
+Education
+Bachelor of Science in Biomedical Engineering
+
+CUET | February 2020 - June 2025
+
+CGPA: 3.76/4.00
+
+Micro BSc in Computer Science
+
+Phitron | February 2022 - February 2023
+
+CGPA: 4.00/4.00
+
+Skills
+Languages: Python, JavaScript
+
+Data Analysis: Numpy, Pandas, Matplotlib, SciPy
+
+ML Frameworks: PyTorch, Scikit-Learn
+
+GenAI Frameworks: LangChain, LangGraph, LlamaIndex
+
+Frontend: React
+
+Backend: Django
+
+</div>
