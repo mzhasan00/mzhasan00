@@ -1,7 +1,7 @@
 <div style="background-color: #f7f7f7; padding: 20px; font-family: 'Inter', sans-serif;">
 
 # ...
-#MD. ZIAUL HASAN
+# MD. ZIAUL HASAN
 ## AI Engineer
    
 Email: md.ziaulhasan00@gmail.com 
