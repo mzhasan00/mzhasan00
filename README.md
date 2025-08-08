@@ -8,11 +8,7 @@ Phone: +880 1741144605
 
 ---
 ### Summary  
-AI Engineer with a strong grasp of modern AI concepts and technologies including LLM, RAG, AI Agents, RLHF, and prompt engineering.   
-I have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs, and LSTMs),   
-can implement them in PyTorch, and can customize them to meet problem needs. I am proficient in Python and its ecosystem including   
-PyTorch, LangChain, LlamaIndex, NumPy, Pandas, Matplotlib, Scikit-learn, and Django. I am also comfortable with JavaScript and its   
-ecosystem for web and desktop app development.
+AI Engineer with a strong grasp of modern AI concepts and technologies, including LLM, RAG, AI Agents, RLHF, and prompt engineering. I have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs, and LSTMs), can implement them in PyTorch, and can customize them to meet problem needs. I am proficient in Python and its ecosystem, including PyTorch, LangChain, LlamaIndex, NumPy, Pandas, Matplotlib, Scikit-learn, and Django. I am also comfortable with JavaScript and its ecosystem for web and desktop app development.
 
 ### Work Experience
 **AI Research Engineer**  
