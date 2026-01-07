@@ -8,21 +8,26 @@ Phone: +880 1741144605
 
 ---
 ### Summary  
-AI Engineer with a strong grasp of modern AI concepts and technologies, including LLM, RAG, AI Agents, RLHF, and prompt engineering. I have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs, and LSTMs), can implement them in PyTorch, and can customize them to meet problem needs. I am proficient in Python and its ecosystem, including PyTorch, LangChain, LlamaIndex, NumPy, Pandas, Matplotlib, Scikit-learn, and Django. I am also comfortable with JavaScript and its ecosystem for web and desktop app development.
+AI Engineer with a strong grasp of modern AI concepts including LLM Finetuning (SFT, LoRA, QLoRA, RLHF, DPO) and AI Agent Development. Have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs,  LSTMs etc.), can implement them in PyTorch and can customize to meet problem needs. Proficient in Python and its ecosystem including PyTorch, LangChain, LlamaIndex, NumPy, Pandas, Matplotlib, Scikit-learn, FastAPI. Passionate about implementing cutting-edge AI research from scratch. My technical focus is centered on task-specific LLM fine-tuning, semi-autonomous agentic systems, and optimizing model alignment through Human-in-the-Loop data generation.
 
 ### Work Experience
+**Advanced AI Trainer**  
+Invisible Technologies |  July 2025 - Present    
+At Invisible I am currently focused on LLM finetuning, where I manage a portfolio of high-impact projects. These include a primary   
+initiative in MCP-based tool calling, Reinforcement Learning from Human Feedback (RLHF), and the specialized training of reasoning models.  
+  
 **AI Research Engineer**  
-AIMS Lab, United International University | July 2025 - Present    
-My research focus is the application of AI in Healthcare. I do experimental research on NLP with a focus on the Bengali language and 
-Healthcare applications. I also write scientific papers and manage research projects.
-
+AIMS Lab, United International University | January 2025 - June 2025    
+My focus of research was the application of AI in Healthcare. I have worked on building methodologies to detect neurodevelopment disorder   
+of children from parent-AI conversation.  
+  
 **AI Data Engineer**  
-Outlier | July 2024 - June 2025  
+Outlier | February 2024 - January 2025  
 I was an Independent Contractor at Outlier AI. Contributed to the development of datasets for training large code models, with a focus on 
 JavaScript and Python.
 
 **Competition Expert**  
-Kaggle | May 2023 - June 2024  
+Kaggle | May 2023 - January 2024  
 Earned two bronze medals in "CAFA 5 Protein Function Prediction" and "NeurIPS 2024 - Predict New Medicines with BELKA," attaining   
 Competition Expert status.Showcased my ability in tackling complex real-world problems.
 
@@ -45,7 +50,7 @@ Developed a deep learning-based model to predict biological functions of protein
 
 ### Education
 **Bachelor of Science in Biomedical Engineering**  
-CUET | February 2020 - June 2025  
+CUET | February 2020 - January 2025  
 CGPA: 3.76/4.00  
   
 **Micro BSc in Computer Science**  
