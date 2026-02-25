@@ -10,6 +10,7 @@ Phone: +880 1741144605
 ### Summary  
 AI Engineer with a strong grasp of modern AI concepts including LLM Finetuning (SFT, LoRA, QLoRA, RLHF, DPO) and AI Agent Development. Have a solid understanding of major neural network architectures (Transformers, Diffusion models, CNNs, GANs, RNNs,  LSTMs etc.), can implement them in PyTorch and can customize to meet problem needs. Proficient in Python and its ecosystem including PyTorch, LangChain, LlamaIndex, NumPy, Pandas, Matplotlib, Scikit-learn, FastAPI. Passionate about implementing cutting-edge AI research from scratch. My technical focus is centered on task-specific LLM fine-tuning, semi-autonomous agentic systems, and optimizing model alignment through Human-in-the-Loop data generation.
 
+<!-- 
 ### Work Experience
 **Advanced AI Trainer**  
 Invisible Technologies |  July 2025 - Present    
@@ -64,5 +65,9 @@ ML Frameworks: PyTorch, Scikit-Learn
 GenAI Frameworks: LangChain, LangGraph, LlamaIndex  
 Frontend: React  
 Backend: Django  
+-->
+
+
+
 
 </div>
